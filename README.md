@@ -1,9 +1,9 @@
 <div align="center">
   
   # Menly Cherisme
-  <p>To code or not to code</p>
-  <p>To learn or not to learn</p>
-  <p>To sleep or not to sleep</p>
+  <p>To Code or Not to Code</p>
+  <p>To Learn or Not to Learn</p>
+  <p>To Sleep or Not to Sleep</p>
 
   <br />
   <img src='https://github.com/user-attachments/assets/d84f99c1-90ce-4462-b8dc-3fa5c9d4880b' width='100px'>
