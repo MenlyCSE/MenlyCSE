@@ -1,6 +1,6 @@
 <div align="center">
   
   # Menly Cherisme
-  Studying Computer Science. Aiming to understand machines. Playing with Java, C, and Assembly.
+  Studying Computer Science. Working to understand machines. Playing with Java, C, and Assembly.
   
 </div>
